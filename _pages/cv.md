@@ -49,8 +49,51 @@ Teaching
   
 Service
 ======
-* TBA
+* Reviewer for the journal of IEEE Access
 
+* Reviewer for the journal of Elsevier Sustainable Cities and Society (SCS)
+ 
+* Reviewer for the journal of Elsevier Computers \& Security
+ 
+* Reviewer for the The Journal of Supercomputing
+ 
+* Member/Reviewer of Program Committee for the International Joint Conference on Neural Networks (IJCNN 2024) 
+ 
+* Member/Reviewer of Program Committee for the International Joint Conference on Neural Networks (IJCNN 2023) 
+ 
+* Member/Reviewer of Program Committee for the 26th Conference on Artificial Intelligence and Statistics (AISTATS 2023) 
+ 
+* Member/Reviewer of Program Committee for the 25th Conference on Artificial Intelligence and Statistics (AISTATS 2022) 
+
+* Secondary reviewer for IEEE International Conference on Data Mining 2021 (ICDM 2021)
+ 
+* Secondary reviewer for The 29th ACM International Conference on Information and Knowledge Management (CIKM 2020) 
+ 
+* Secondary reviewer for The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-20)
+ 
+* Secondary reviewer for IEEE International Conference on Data Mining 2019 (ICDM 2019)
+
+* Review Assistant of the Conference the International Joint Conference on Artificial Intelligence 2019 (IJCAI 2019)
+ 
+* Member/Reviewer of Program Committee for the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)
+ 
+* Member/Reviewer of Program Committee for the SIGNLL Conference on Computational Natural Language Learning (CoNLL 2017)
+ 
+* Member/Reviewer of Program Committee for the Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)
+ 
+* Secondary reviewer for The 27th ACM International Conference on Information and Knowledge Management (CIKM 2018)
+ 
+* Secondary reviewer for IEEE International Conference on Data Mining 2018 (ICDM 2018)
+ 
+* Secondary reviewer for The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)
+ 
+* Secondary reviewer for SIAM International Conference on Data Mining (SDM-18)
+ 
+* Secondary reviewer for The 26th ACM International Conference on Information and Knowledge Management (CIKM 2017) 
+ 
+* Secondary reviewer for China Conference on Knowledge Graph and Semantic Computing (CCKS 2017)
+ 
+* Secondary reviewer for International Conference on Computer Processing of Oriental Languages (ICCPOL 2016)
 
 Leadership
 ======
