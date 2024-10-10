@@ -8,12 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a deep learning researcher, a wanderluster, a photographer, a poet, and a daydreamer. I having been doing research in applying deep learning to 
-natural language processing (NLP) and cybersecurity. I'm fortunately supervised by Prof. Benjamin C.M. Fung.
-
-My recent research focus is deep learning for authorship verification. I am also intereted in general (applied) machine learning, NLP, multimodal learning, and metaverse.
-
-I highly recommend self-motivated deep learning researchers to join our lab as long as you share research interests (e.g., deep learning, machine learning, cybersecurity) with Prof. Fung. He is a super nice professor.
+A self-motivated postdoctoral researcher with a strong technical background in deep learning theories and applications, particularly in natural language processing (NLP) and cybersecurity. Experienced in developing deep learning models and applying them to security-critical tasks. Additionally, proficient in hands-on experimentation with large language models (LLMs), focusing on dataset curation, pretraining, finetuning, and building agent-based systems. Versatile in both formal research environments with publications and cutting-edge LLM-driven projects. Highly skilled in PyTorch and Python, with a focus on both deep learning theory and practical applications. My LLM projects can be found on my second ![Github account](https://github.com/MeNicefellow) and the LLMs I trained/finetuned and the datasets I curated can be found on my ![Huggingface page](https://huggingface.co/DrNicefellow).
 
 ![Misc](/images/combined.jpg)
 
