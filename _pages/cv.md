@@ -55,7 +55,7 @@ Service
  
 * Reviewer for the The Journal of Supercomputing
 
-* Member/Reviewer of Program Committee for the 26th Conference on Artificial Intelligence and Statistics (AISTATS 2024) 
+* Member/Reviewer of Program Committee for the 27th Conference on Artificial Intelligence and Statistics (AISTATS 2024) 
  
 * Member/Reviewer of Program Committee for the International Joint Conference on Neural Networks (IJCNN 2024) 
  
