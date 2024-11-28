@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 
-* Postdoctoral researcher at School of Information Studies, McGill University since 2022.09
+Postdoctoral researcher at School of Information Studies, McGill University from 2022.09 to 2024.11.
   
   
 Skills

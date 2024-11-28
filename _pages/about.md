@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Deep Learning Postdoctoral Researcher at DMaS Lab, McGill University"
+title: "A Deep Learning Researcher "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A self-motivated postdoctoral researcher with a strong technical background in deep learning theories and applications, particularly in natural language processing (NLP) and cybersecurity. Experienced in developing deep learning models and applying them to security-critical tasks. Additionally, proficient in hands-on experimentation with large language models (LLMs), focusing on dataset curation, pretraining, finetuning, and building agent-based systems. Versatile in both formal research environments with publications and cutting-edge LLM-driven projects. Highly skilled in PyTorch and Python, with a focus on both deep learning theory and practical applications. My LLM projects can be found on my second [Github account](https://github.com/MeNicefellow) and the LLMs I trained/finetuned and the datasets I curated can be found on my [Huggingface page](https://huggingface.co/DrNicefellow).
+A self-motivated researcher with a strong technical background in deep learning theories and applications, particularly in natural language processing (NLP). Experienced in developing deep learning models and applying them to NLP and security-critical tasks. Additionally, proficient in hands-on experimentation with large language models (LLMs), focusing on dataset curation, pretraining, finetuning, and building agent-based systems. Versatile in both formal research environments with publications and cutting-edge LLM-driven projects. Highly skilled in PyTorch and Python, with a focus on both deep learning theory and practical applications. My LLM projects can be found on my second [Github account](https://github.com/MeNicefellow) and the LLMs I trained/finetuned and the datasets I curated can be found on my [Huggingface page](https://huggingface.co/DrNicefellow).
 
 ![Misc](/images/combined.jpg)
 
