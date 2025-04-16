@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "A Deep Learning Researcher "
+title: "A Deep Learning Researcher and Data Scientist"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-A self-motivated researcher with a strong technical background in deep learning theories and applications, particularly in natural language processing (NLP). Experienced in developing deep learning models and applying them to NLP and security-critical tasks. Additionally, proficient in hands-on experimentation with large language models (LLMs), focusing on dataset curation, pretraining, finetuning, and building agent-based systems. Versatile in both formal research environments with publications and cutting-edge LLM-driven projects. Highly skilled in PyTorch and Python, with a focus on both deep learning theory and practical applications. A 1.7b LLaMa model trained from scratch by me can be found at the [Huggingface collection](https://huggingface.co/collections/McGill-DMaS/dmas-llama-lite-6761d97ba903f82341954ceb). My other LLM projects can be found on my second [Github account](https://github.com/MeNicefellow) and the LLMs I trained/finetuned and the datasets I curated can be found on my [Huggingface page](https://huggingface.co/DrNicefellow).
+I am a self-motivated researcher and data scientist with a strong technical background in deep learning, natural language processing (NLP), and large language models (LLMs). I specialize in developing scalable machine learning solutions for real-world applications, with experience spanning both academic research and industry collaborations.
+
+With a Ph.D. in Computer Science from McGill University, I combine rigorous deep learning research with production-level deployment skills. I’m proficient in PyTorch, Hugging Face, and modern ML pipelines, and have mentored graduate students and cross-functional teams.
+
+
+My work on LLMs involves hands-on experimentation with LLMs, including dataset curation, pretraining, fine-tuning, and building agent-based or retrieval-augmented systems. I am also experienced in applying ML techniques to solve practical problems in NLP and cybersecurity domains—ranging from interpretable malware detection to customer churn prediction.
+
+
+You can find the 1.7B LLaMA model I trained on my [Huggingface collection](https://huggingface.co/collections/McGill-DMaS/dmas-llama-lite-6761d97ba903f82341954ceb). My other LLM projects can be found on my first [Github account](https://github.com/MilesQLi/Miles_AI_Collection) and second [Github account](https://github.com/MeNicefellow) and the LLMs I trained/finetuned and the datasets I curated can be found on my [Huggingface page](https://huggingface.co/DrNicefellow).
+
+In addition to academic projects, I’ve taken initiative to bridge the gap between research and *business* by *analyzing real-world datasets* on platforms like *Kaggle* and *AICrowd*, and participating in *job simulations* through Forage to better understand the role of data scientists in business environments.
 
 ![Misc](/images/combined.jpg)
 
