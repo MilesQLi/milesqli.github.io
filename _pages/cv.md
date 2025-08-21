@@ -47,6 +47,22 @@ Teaching
   
 Service
 ======
+
+
+* Reviewer for the International Journal of Information Security
+
+* Reviewer for the Journal of Cluster Computing
+
+* Reviewer for the Journal of Pattern Recognition Letters
+
+* Reviewer for the Journal of Big Data
+
+* Reviewer for the journal of AI, Computer Science and Robotics Technology
+
+* Reviewer for the EURASIP Journal on Information Security
+
+* Reviewer for the journal of *Artificial Intelligence Review*  
+
 * Reviewer for the journal of IEEE Access
 
 * Reviewer for the journal of Elsevier Sustainable Cities and Society (SCS)
