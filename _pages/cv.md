@@ -48,6 +48,7 @@ Teaching
 Service
 ======
 
+* Reviewer for the Journal of Cyber Security Technology
 
 * Reviewer for the International Journal of Information Security
 
