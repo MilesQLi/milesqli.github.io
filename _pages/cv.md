@@ -48,6 +48,8 @@ Teaching
 Service
 ======
 
+* Reviewer for the Journal of Nature Communications
+
 * Reviewer for the Journal of Computer Virology and Hacking Techniques
 
 * Reviewer for the Journal of Cyber Security Technology
