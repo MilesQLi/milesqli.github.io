@@ -48,7 +48,7 @@ Teaching
 Service
 ======
 
-* Reviewer for the Journal of Nature Communications
+* Co-reviewer As an Early Career Researcher for the Journal of Nature Communications
 
 * Reviewer for the Journal of Computer Virology and Hacking Techniques
 
