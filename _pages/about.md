@@ -8,17 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a self-motivated researcher and data scientist with a strong technical background in deep learning, natural language processing (NLP), and large language models (LLMs). I specialize in developing scalable machine learning solutions for real-world applications, with experience spanning both academic research and industry collaborations.
+I am an AI researcher and agent developer specializing in the intersection of deep learning, Large Language Models (LLMs), and AI cybersecurity. Holding a Ph.D. in Computer Science from McGill University, I bridge the gap between rigorous academic research and production-level deployment. My expertise encompasses the entire LLM lifecycle—from dataset curation and pretraining to fine-tuning and security alignment—as well as the architecture of robust multi-agent systems for real-world applications.
 
-With a Ph.D. in Computer Science from McGill University, I combine rigorous deep learning research with production-level deployment skills. I’m proficient in PyTorch, Hugging Face, and modern ML pipelines, and have mentored graduate students and cross-functional teams.
+Technically, I possess a strong command of Python, PyTorch, Hugging Face, LangChain/LangGraph, and Docker. I have extensive experience applying machine learning techniques to solve complex problems in the NLP and cybersecurity domains, with a focus on reproducibility and scalability.
 
-
-My work on LLMs involves hands-on experimentation with LLMs, including dataset curation, pretraining, fine-tuning, and building agent-based or retrieval-augmented systems. I am also experienced in applying ML techniques to solve practical problems in NLP and cybersecurity domains—ranging from interpretable malware detection to customer churn prediction.
-
-
-You can find the 1.7B LLaMA model I trained on my [Huggingface collection](https://huggingface.co/collections/McGill-DMaS/dmas-llama-lite-6761d97ba903f82341954ceb). My other LLM projects can be found on my first [Github account](https://github.com/MilesQLi/Miles_AI_Collection) and second [Github account](https://github.com/MeNicefellow) and the LLMs I trained/finetuned and the datasets I curated can be found on my [Huggingface page](https://huggingface.co/DrNicefellow).
-
-In addition to academic projects, I’ve taken initiative to bridge the gap between research and *business* by *analyzing real-world datasets* on platforms like *Kaggle* and *AICrowd*, and participating in *job simulations* through Forage to better understand the role of data scientists in business environments.
+My open-source contributions and research implementations include:
+*   **LLM Training:** I curated datasets and trained a [1.7B LLaMA model](https://huggingface.co/collections/McGill-DMaS/dmas-llama-lite-6761d97ba903f82341954ceb) (DMaS-LLaMA-Lite).
+*   **Multi-Agent Systems:** I developed a [Virtual Customer Service Representative](https://github.com/MilesQLi/VirtualCustomerServiceRepresentative), demonstrating practical multi-agent orchestration.
+*   **Research Implementation:** I contributed to the [COMPASS Implementation](https://github.com/infiniteoptimization/COMPASS-Implementation), focusing on advanced optimization.
+*   **Collections:** You can explore my broader scope of LLM projects in my [GitHub AI Collection](https://github.com/MilesQLi/Miles_AI_Collection) and view my full library of models and datasets on my [Hugging Face profile](https://huggingface.co/DrNicefellow).
 
 ![Misc](/images/combined.jpg)
 
