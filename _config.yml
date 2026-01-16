@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Miles Q. Li / Miles' CV"
 title_separator          : "-"
 name                     : &name "Miles Q. Li "
-description              : &description "Deep Learning Researcher"
+description              : &description "AI Researcher/Developer"
 url                      : https://milesqli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MilesQLi/MilesQLi.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Miles Q. Li (李琦)"
   avatar           : "IMG_6635.JPG"
-  bio              : "Ph.D., Deep learning researcher, foundation model expert"
+  bio              : "Ph.D., AI researcher, AI Agent System Developer"
   location         : "Montreal"
   employer         :
   pubmed           : 
