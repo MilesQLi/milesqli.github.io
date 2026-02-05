@@ -76,6 +76,8 @@ Service
  
 * Reviewer for the The Journal of Supercomputing
 
+* Member/Reviewer of Program Committee for the 43rd International Conference on Machine Learning (ICML 2026)
+
 * Member/Reviewer of Program Committee for the 28th Conference on Artificial Intelligence and Statistics (AISTATS 2025) (**Best Reviewer**)
  
 * Member/Reviewer of Program Committee for the International Joint Conference on Neural Networks (IJCNN 2024) 
