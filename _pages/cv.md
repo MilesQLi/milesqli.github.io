@@ -11,113 +11,88 @@ redirect_from:
 
 Education
 ======
-* B.S. in Physics, Peking University, 2014
-* M.S. in Computer Software and Theory, Peking University, 2017
-* Ph.D in Computer Science, McGill University, 2022 
+* **Ph.D. in Computer Science, McGill University, 2022**
+  * Supervisor: Prof. Benjamin C.M. Fung
+  * Thesis: *Interpretable Machine Learning for Malware Detection and Adversarial Defense*
+  * Focus: Deep Learning and Data Mining for Cybersecurity
+  * GPA: 4.0/4.0
+* **M.S. in Computer Software and Theory, Peking University, 2017**
+  * Supervisor: Prof. Baobao Chang
+  * Thesis: *Document-Level Semantic Analysis Using Hierarchical Long Short-Term Memory Networks*
+  * Focus: Natural Language Processing and Deep Learning
+* **B.S. in Physics, Peking University, 2014**
 
 Work experience
 ======
 
-Postdoctoral researcher at School of Information Studies, McGill University from 2022.09 to 2024.11, and 2025.10 - present.
-  
-  
+* **Postdoctoral Researcher**, McGill University (2022--2024, 2025--present)
+  * Research on the security, safety, and trustworthiness of AI systems. Proposed a novel taxonomy of LLM security threats. Authored peer-reviewed research papers in leading AI & security journals and conferences. Developed a benchmark for evaluating safety constraint violations in autonomous AI agents. Built a LLM-based self-supervised anomaly detection system for cybersecurity applications.
+
+* **AI Research Content Educator/Consultant**, Infinite Optimization AI Lab (2024--2025)
+  * Creating technical videos explaining LLMs, NLP, and deep learning concepts. Providing consulting service to AI researchers and engineers.
+
+* **Consultant Research Intern**, MITACS Internship at Desjardins Group (2022--2024)
+  * Developed a state-of-the-art LLM-based anomaly detection system for identifying and explaining malicious command lines in a financial institution's cybersecurity infrastructure.
+
 Skills
 ======
-* Python
-  * Pytorch
+* Python (PyTorch, Hugging Face, LangChain/LangGraph)
 * Java
+* Docker
+* LLM pretraining, fine-tuning, and alignment
+* Multi-agent system architecture
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service
 ======
 
-* Co-reviewer As an Early Career Researcher for the Journal of Nature Communications
+**Journal Reviewing**
 
-* Reviewer for the Journal of Computer Virology and Hacking Techniques
+* Nature Communications, Springer (Co-reviewer as an Early Career Researcher)
+* Artificial Intelligence Review, Springer
+* Computers & Security, Elsevier
+* Expert Systems with Applications, Elsevier
+* International Journal of Information Security, Springer
+* Open Journal of the Communications Society, IEEE
+* Sustainable Cities and Society, Elsevier
+* The Journal of Supercomputing, Springer
+* Journal of Computer Virology and Hacking Techniques, Springer
+* Journal of Cyber Security Technology, Taylor & Francis
+* Cluster Computing, Springer
+* Pattern Recognition Letters, Elsevier
+* Journal of Big Data, Springer
+* EURASIP Journal on Information Security, Springer
+* IEEE Access, IEEE
 
-* Reviewer for the Journal of Cyber Security Technology
+**Conference Reviewing**
 
-* Reviewer for the International Journal of Information Security
+* ICML (2026)
+* AISTATS (2022, 2023, 2025 --- **Best Reviewer Award**)
+* IJCNN (2023, 2024, 2025)
+* EMNLP (2017, 2018)
+* CoNLL (2017)
 
-* Reviewer for the Journal of Cluster Computing
+**Secondary Reviewing**
 
-* Reviewer for the Journal of Pattern Recognition Letters
-
-* Reviewer for the Journal of Big Data
-
-* Reviewer for the journal of AI, Computer Science and Robotics Technology
-
-* Reviewer for the EURASIP Journal on Information Security
-
-* Reviewer for the journal of *Artificial Intelligence Review*  
-
-* Reviewer for the journal of IEEE Access
-
-* Reviewer for the journal of Elsevier Sustainable Cities and Society (SCS)
- 
-* Reviewer for the journal of Elsevier Computers \& Security
- 
-* Reviewer for the The Journal of Supercomputing
-
-* Member/Reviewer of Program Committee for the 43rd International Conference on Machine Learning (ICML 2026)
-
-* Member/Reviewer of Program Committee for the 28th Conference on Artificial Intelligence and Statistics (AISTATS 2025) (**Best Reviewer**)
- 
-* Member/Reviewer of Program Committee for the International Joint Conference on Neural Networks (IJCNN 2024) 
- 
-* Member/Reviewer of Program Committee for the International Joint Conference on Neural Networks (IJCNN 2023) 
- 
-* Member/Reviewer of Program Committee for the 26th Conference on Artificial Intelligence and Statistics (AISTATS 2023) 
- 
-* Member/Reviewer of Program Committee for the 25th Conference on Artificial Intelligence and Statistics (AISTATS 2022) 
-
-* Secondary reviewer for IEEE International Conference on Data Mining 2021 (ICDM 2021)
- 
-* Secondary reviewer for The 29th ACM International Conference on Information and Knowledge Management (CIKM 2020) 
- 
-* Secondary reviewer for The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-20)
- 
-* Secondary reviewer for IEEE International Conference on Data Mining 2019 (ICDM 2019)
-
-* Review Assistant of the Conference the International Joint Conference on Artificial Intelligence 2019 (IJCAI 2019)
- 
-* Member/Reviewer of Program Committee for the Conference on Empirical Methods in Natural Language Processing (EMNLP 2018)
- 
-* Member/Reviewer of Program Committee for the SIGNLL Conference on Computational Natural Language Learning (CoNLL 2017)
- 
-* Member/Reviewer of Program Committee for the Conference on Empirical Methods in Natural Language Processing (EMNLP 2017)
- 
-* Secondary reviewer for The 27th ACM International Conference on Information and Knowledge Management (CIKM 2018)
- 
-* Secondary reviewer for IEEE International Conference on Data Mining 2018 (ICDM 2018)
- 
-* Secondary reviewer for The Thirty-Second AAAI Conference on Artificial Intelligence (AAAI-18)
- 
-* Secondary reviewer for SIAM International Conference on Data Mining (SDM-18)
- 
-* Secondary reviewer for The 26th ACM International Conference on Information and Knowledge Management (CIKM 2017) 
- 
-* Secondary reviewer for China Conference on Knowledge Graph and Semantic Computing (CCKS 2017)
- 
-* Secondary reviewer for International Conference on Computer Processing of Oriental Languages (ICCPOL 2016)
+* ICDM (2018, 2019, 2021), CIKM (2017, 2018, 2020), AAAI (2018, 2020), SDM (2018), IJCAI (2019), CCKS (2017), ICCPOL (2016)
 
 Leadership
 ======
-* 2012.9-2013.7： President of Open-source Software Association, Peking University
+* 2012--2013: President of Open-source Software Association, Peking University
