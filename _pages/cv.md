@@ -79,6 +79,7 @@ Service
 * Pattern Recognition Letters, Elsevier
 * Journal of Big Data, Springer
 * EURASIP Journal on Information Security, Springer
+* Discover Artificial Intelligence, Springer
 * IEEE Access, IEEE
 
 **Conference Reviewing**
