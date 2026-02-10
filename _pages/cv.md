@@ -84,7 +84,6 @@ Service
 
 **Conference Reviewing**
 
-* ICML (2026)
 * AISTATS (2022, 2023, 2025 --- **Best Reviewer Award**)
 * IJCNN (2023, 2024, 2025)
 * EMNLP (2017, 2018)
