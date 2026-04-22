@@ -68,6 +68,7 @@ Service
 * Nature Communications, Springer (Co-reviewer as an Early Career Researcher)
 * Artificial Intelligence Review, Springer
 * Computers & Security, Elsevier
+* Communications AI & Computing, Springer Nature
 * Expert Systems with Applications, Elsevier
 * International Journal of Information Security, Springer
 * Open Journal of the Communications Society, IEEE
