@@ -67,6 +67,7 @@ Service
 
 * Nature Communications, Springer (Co-reviewer as an Early Career Researcher)
 * Artificial Intelligence Review, Springer
+* npj Artificial Intelligence, Springer Nature
 * Computers & Security, Elsevier
 * Communications AI & Computing, Springer Nature
 * Expert Systems with Applications, Elsevier
