@@ -4,7 +4,7 @@ collection: talks
 type: "Interview"
 permalink: /talks/2026-03-26-opik-comet
 venue: "Opik by Comet"
-date: 2026-03-26
+date: 2026-03-17
 location: "Online"
 ---
 
