@@ -3,7 +3,7 @@ title: "Feedback-guided Post-training of Large Language Models"
 collection: publications
 permalink: /publication/feedbackguidedposttraining
 excerpt: 'A Review that organizes feedback-guided post-training methods for LLMs (RLHF, RLVR, DPO-style and related algorithms) under a single taxonomy and shared notation.'
-date: 2026-10-16
+date: 2026-10-19
 venue: 'Communications AI &amp; Computing (Springer Nature), accepted, in press'
 citation: 'Miles Q. Li, Benjamin C. M. Fung, Ebrahim Bagheri, Shih-Chia Huang, and Ching-Chun Huang. Feedback-guided Post-training of Large Language Models. Communications AI &amp; Computing (2026), in press.'
 ---
