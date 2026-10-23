@@ -12,6 +12,8 @@ I am an AI researcher and agent developer specializing in the intersection of de
 
 My current research focuses on building safe, trustworthy autonomous AI agents and understanding the security landscape of large language models. I am particularly interested in developing robust evaluation frameworks for agentic AI systems and advancing multi-layered defense strategies against emerging LLM threats.
 
+I work on [Lacuna](https://lacuna.tiptreesystems.com/), a research map for machine learning. Here is my [researcher profile on Lacuna](https://lacuna.tiptreesystems.com/author/miles-q-li).
+
 Technically, I possess a strong command of Python, PyTorch, Hugging Face, LangChain/LangGraph, and Docker. I have extensive experience applying machine learning techniques to solve complex problems in the NLP and cybersecurity domains, with a focus on reproducibility and scalability.
 
 My open-source contributions and research implementations include:
