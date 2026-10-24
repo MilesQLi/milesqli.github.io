@@ -87,7 +87,7 @@ Service
 **Conference Reviewing**
 
 * NeurIPS (2026)
-* AISTATS (2022, 2023, 2025, 2027; **Best Reviewer Award** in 2025)
+* AISTATS (2022, 2023, 2025, 2026, 2027; **Best Reviewer Award** in 2025)
 * IJCNN (2023, 2024, 2025)
 * EMNLP (2017, 2018)
 * CoNLL (2017)
