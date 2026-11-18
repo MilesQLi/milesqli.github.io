@@ -38,7 +38,8 @@ Skills
 ======
 * Python (PyTorch, Hugging Face, LangChain/LangGraph)
 * Java
-* Docker
+* Docker, Kubernetes, HPC/Slurm
+* Prometheus, Grafana, Loki
 * LLM pretraining, fine-tuning, and alignment
 * Multi-agent system architecture
 
